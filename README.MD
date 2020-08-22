@@ -68,9 +68,9 @@ void *HGSDK_HGSDK_PingManager__FirstPing_c__AnonStorey1____m__0(void *_this, voi
 }
 ```
 
-找Hook的具体地址参考P大的工具：[IL2CPPDUMPER](https://github.com/Perfare/Il2CppDumper "IL2CPPDUMPER")
+找Hook的具体地址参考P大的工具：[Il2CppDumper](https://github.com/Perfare/Il2CppDumper "Il2CppDumper")
 
-一个挺好用的Hook框架：[Android-Hooking](https://github.com/joeyjurjens/Android-Hooking-Template "Android-Hooking")
+一个挺好用的Hook框架：[Android-Hooking-Template](https://github.com/joeyjurjens/Android-Hooking-Template "Android-Hooking-Template")
 
 某个版本的hook.cpp代码，自己参考：
 ```cpp
